@@ -1,2 +1,2 @@
 # trial
-Nginx x.y.z
+Nginx 1.8.2
